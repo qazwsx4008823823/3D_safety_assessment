@@ -1,4 +1,3 @@
-# 3D_safety_assessment
 # Safety Assessment of 3D Generation Models in AR/VR Applications
 
 [![DOI](https://img.shields.io/badge/DOI-XXXXXXX.XXXXXXX-blue?style=flat-square)](https://doi.org/XXXXXXX.XXXXXXX)
@@ -58,3 +57,9 @@ python train.py \
     --batch_size 64 \
     --lr 0.0005 \
     --device cuda
+```
+
+## Examples
+
+We have some unsafe contents gifs here:
+
