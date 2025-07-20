@@ -18,7 +18,7 @@ This repository provides the data and code for the paper *Safety Assessment of 3
 ###  Environment Setup
 
 **Prerequisites**:
-* Python 3.x
+* Python 3.9+
 * CUDA GPU (recommended)
 
 **Installation**:
@@ -64,3 +64,5 @@ python train.py \
 We have some unsafe contents .gif here:
 
 ![Example 1](assets/output_176.gif)
+![Example 2](assets/output_159.gif)
+![Example 3](assets/output_226.gif)
