@@ -10,7 +10,7 @@ This repository provides the data and code for the paper *Safety Assessment of 3
 
 ### Architecture Overview
 
-![Pipeline Overview](assets/pipeline_overview.png)
+![Pipeline Overview](assets/overview_1.png)
 *Figure 1: Overview of the proposed multimodal 3D asset safety assessment pipeline.*
 
 ## Preparation
