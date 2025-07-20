@@ -62,6 +62,7 @@ python train.py \
 ## Examples
 
 We have some unsafe contents .gif here:
+
 <img src="assets/output_176.gif" width="30%">
-![Example 2](assets/output_159.gif)
-![Example 3](assets/output_226.gif)
+<img src="assets/output_159.gif" width="30%">
+<img src="assets/output_226.gif" width="30%">
