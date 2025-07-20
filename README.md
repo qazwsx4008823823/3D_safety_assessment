@@ -61,5 +61,6 @@ python train.py \
 
 ## Examples
 
-We have some unsafe contents gifs here:
+We have some unsafe contents .gif here:
 
+![Example 1](assets/output_176.gif)
