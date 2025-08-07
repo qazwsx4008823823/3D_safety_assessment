@@ -9,7 +9,7 @@ This repository provides the data and code for the paper *Safety Assessment of 3
 
 ### Architecture Overview
 
-![Pipeline Overview](assets/overview_1.png)
+![Pipeline Overview](asset/overview_1.png)
 *Figure 1: Overview of the proposed multimodal 3D asset safety assessment pipeline.*
 
 ## Preparation
@@ -63,9 +63,9 @@ python train.py \
 
 We have some unsafe contents .gif here:
 
-<img src="assets/output_176.gif" width="30%">
-<img src="assets/output_159.gif" width="30%">
-<img src="assets/output_226.gif" width="30%">
+<img src="asset/output_176.gif" width="30%">
+<img src="asset/output_159.gif" width="30%">
+<img src="asset/output_226.gif" width="30%">
 
 
 3D_safety_assessment
