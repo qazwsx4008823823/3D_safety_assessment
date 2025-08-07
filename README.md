@@ -66,6 +66,3 @@ We have some unsafe contents .gif here:
 <img src="asset/output_176.gif" width="30%">
 <img src="asset/output_159.gif" width="30%">
 <img src="asset/output_226.gif" width="30%">
-
-
-3D_safety_assessment
